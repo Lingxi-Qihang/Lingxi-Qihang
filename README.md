@@ -1,8 +1,6 @@
 # 西安灵犀启航智能科技有限公司
 
-<p align="center">
-  <img src="https://via.placeholder.com/200x80?text=Lingxi+AI" alt="Lingxi AI Logo" width="200">
-</p>
+
 
 <p align="center">
   <strong>AIGC 全链路技术研发 · 端侧智能解决方案</strong>
@@ -44,6 +42,7 @@
 - **多模态生成**：五合一模型（文生图/视频、图生视频、视频编辑、指令编辑）独立微调，CFG 优化，效果显著
 - **端侧语音全链路**：AEC、VAD、ASR、LLM、TTS 全本地运行，无需联网
 - **全栈工程能力**：团队具备完整的 AI 产品从 0 到 1 的落地能力
+![Uploading image.png…]()
 
 ---
 
