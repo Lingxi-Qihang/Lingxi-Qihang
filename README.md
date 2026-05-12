@@ -50,7 +50,6 @@
 
 - [**OpenShortVideo**](https://github.com/Shybert-AI/OpenShortVideo) – AI 短视频生成平台，支持文本/图片生成短视频
 - [**AEC-Two-Stage-Based**](https://github.com/Shybert-AI/AEC-Two-Stage-Based) – 两阶段回声消除开源实现
-- [**更多项目**](https://github.com/Shybert-AI) – 持续更新中
 
 > 2026 年 5 月将开源 **UniGen-LingXi-5B** 模型，并发布 arXiv 论文。
 
