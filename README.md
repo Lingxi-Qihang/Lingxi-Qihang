@@ -59,7 +59,6 @@
 ## 📞 联系方式
 
 - **企业官网**：[https://app-91k4q9pod3pd.appmiaoda.com/](https://app-91k4q9pod3pd.appmiaoda.com/)
-- **GitHub 组织**：[https://github.com/Shybert-AI](https://github.com/Shybert-AI)
 - **业务咨询**：可通过官网联系表单或 GitHub Issues 沟通
 
 ---
